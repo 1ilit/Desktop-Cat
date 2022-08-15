@@ -1,4 +1,7 @@
 # Desktop-Cat
+
+<img src="idling.gif" alt="demo"/>
+
 A desktop kitty that sleeps, wanders around, and keeps you company
 
 ## Features
